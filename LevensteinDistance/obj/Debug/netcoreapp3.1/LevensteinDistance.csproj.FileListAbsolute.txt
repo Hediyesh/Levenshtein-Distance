@@ -1,0 +1,26 @@
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.exe
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.deps.json
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.runtimeconfig.json
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.dll
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.pdb
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.dll
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.pdb
+C:\Users\ASUS\source\repos\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.genruntimeconfig.cache
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.exe
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.deps.json
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.runtimeconfig.json
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.runtimeconfig.dev.json
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.dll
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\bin\Debug\netcoreapp3.1\LevensteinDistance.pdb
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.csprojAssemblyReference.cache
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.csproj.CoreCompileInputs.cache
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.AssemblyInfoInputs.cache
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.AssemblyInfo.cs
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.dll
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.pdb
+D:\bre be git\proje o tamrina\LevensteinDistance\LevensteinDistance\obj\Debug\netcoreapp3.1\LevensteinDistance.genruntimeconfig.cache
